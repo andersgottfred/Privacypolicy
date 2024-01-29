@@ -2,7 +2,7 @@
 
 The app does not collect any identifiable information about the user. It only tracks the bare minimum needed to debug issues, to view download and purchase trends. The app collects anonymized metadata using Apple’s built in metrics system, like any other app on the App Store.
 
-To put it short, i don't want your data.
+To put it short; i don't want your personal data.
 
 ## Your Consent
 By using the app, you consent to this privacy policy.
